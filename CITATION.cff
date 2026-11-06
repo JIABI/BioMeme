@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "Please cite the versioned Zenodo collection when using this code or its accompanying data."
+type: software
+title: "BioMeme: biological response memory for virtual cells"
+authors:
+  - family-names: Bi
+    given-names: Jia
+    orcid: "https://orcid.org/0000-0002-3773-3289"
+version: "4.22"
+date-released: "2026-11-06"
+license: MIT
+url: "https://doi.org/10.5281/zenodo.24008759"
+preferred-citation:
+  type: data
+  title: "BioMeme: biological response memory for virtual cells — data, code and reproducibility materials"
+  authors:
+    - family-names: Bi
+      given-names: Jia
+      orcid: "https://orcid.org/0000-0002-3773-3289"
+  version: "4.22"
+  year: 2026
+  date-published: "2026-11-06"
+  publisher:
+    name: Zenodo
+  doi: "10.5281/zenodo.24008759"
+  url: "https://doi.org/10.5281/zenodo.24008759"

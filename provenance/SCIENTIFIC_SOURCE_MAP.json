@@ -1,0 +1,418 @@
+{
+  "source_doi": "10.5281/zenodo.24008759",
+  "source_software_version": "4.21",
+  "source_zip": "BioMeme_4_22_software.zip",
+  "files": [
+    {
+      "path": "biomeme/optional.py",
+      "source_archive_member": "BioMeme_4_22/software/BioMeme/biomeme/optional.py",
+      "upstream_sha256": "536414711bedc416d2e21c1dab823101824150d8885608856d5e22ffdbea9cab",
+      "current_sha256": "536414711bedc416d2e21c1dab823101824150d8885608856d5e22ffdbea9cab",
+      "status": "unchanged",
+      "scientific_implementation_or_test": true
+    },
+    {
+      "path": "biomeme/__init__.py",
+      "source_archive_member": "BioMeme_4_22/software/BioMeme/biomeme/__init__.py",
+      "upstream_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "current_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "status": "unchanged",
+      "scientific_implementation_or_test": true
+    },
+    {
+      "path": "biomeme/confirmation_adapter.py",
+      "source_archive_member": "BioMeme_4_22/software/BioMeme/biomeme/confirmation_adapter.py",
+      "upstream_sha256": "e1c774ff40f21a2a6a6f02d5f3024e803615acc9b1a863fbea1cf8d57c960855",
+      "current_sha256": "e1c774ff40f21a2a6a6f02d5f3024e803615acc9b1a863fbea1cf8d57c960855",
+      "status": "unchanged",
+      "scientific_implementation_or_test": true
+    },
+    {
+      "path": "biomeme/community.py",
+      "source_archive_member": "BioMeme_4_22/software/BioMeme/biomeme/community.py",
+      "upstream_sha256": "d1f6ee1df7a9d425548501c1ad8d5d5d22dcf859be7901a2149131640e434c58",
+      "current_sha256": "d1f6ee1df7a9d425548501c1ad8d5d5d22dcf859be7901a2149131640e434c58",
+      "status": "unchanged",
+      "scientific_implementation_or_test": true
+    },
+    {
+      "path": "biomeme/demo.py",
+      "source_archive_member": "BioMeme_4_22/software/BioMeme/biomeme/demo.py",
+      "upstream_sha256": "4a55d34a917431c6e748c3071a388e65387a35c00999d007fc5bce4cc2111438",
+      "current_sha256": "4a55d34a917431c6e748c3071a388e65387a35c00999d007fc5bce4cc2111438",
+      "status": "unchanged",
+      "scientific_implementation_or_test": true
+    },
+    {
+      "path": "biomeme/validation.py",
+      "source_archive_member": "BioMeme_4_22/software/BioMeme/biomeme/validation.py",
+      "upstream_sha256": "f55670ca5d9be06f49081b14dcc8f9db0b1a132e1f29ab75ce3571176b6ca85b",
+      "current_sha256": "f55670ca5d9be06f49081b14dcc8f9db0b1a132e1f29ab75ce3571176b6ca85b",
+      "status": "unchanged",
+      "scientific_implementation_or_test": true
+    },
+    {
+      "path": "frozen/bioffn_v16/crosscell.py",
+      "source_archive_member": "BioMeme_4_22/software/BioMeme/frozen/bioffn_v16/crosscell.py",
+      "upstream_sha256": "f8e76bf23be880b7a070e1a8c1b9db8ac41269dbc529e9fda46d33d39ac35fca",
+      "current_sha256": "f8e76bf23be880b7a070e1a8c1b9db8ac41269dbc529e9fda46d33d39ac35fca",
+      "status": "unchanged",
+      "scientific_implementation_or_test": true
+    },
+    {
+      "path": "frozen/bioffn_v16/dualkey.py",
+      "source_archive_member": "BioMeme_4_22/software/BioMeme/frozen/bioffn_v16/dualkey.py",
+      "upstream_sha256": "12b68d9ac4a6312c1e547b27bcad6feb3eb11faa600d1541b6fa2d63f256340e",
+      "current_sha256": "12b68d9ac4a6312c1e547b27bcad6feb3eb11faa600d1541b6fa2d63f256340e",
+      "status": "unchanged",
+      "scientific_implementation_or_test": true
+    },
+    {
+      "path": "frozen/bioffn_v16/memory.py",
+      "source_archive_member": "BioMeme_4_22/software/BioMeme/frozen/bioffn_v16/memory.py",
+      "upstream_sha256": "03818820b35b0c39250104344dbe9bba5314593ed1d96856bcaa7cc483b37135",
+      "current_sha256": "03818820b35b0c39250104344dbe9bba5314593ed1d96856bcaa7cc483b37135",
+      "status": "unchanged",
+      "scientific_implementation_or_test": true
+    },
+    {
+      "path": "frozen/bioffn_v16/__init__.py",
+      "source_archive_member": "BioMeme_4_22/software/BioMeme/frozen/bioffn_v16/__init__.py",
+      "upstream_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "current_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "status": "unchanged",
+      "scientific_implementation_or_test": true
+    },
+    {
+      "path": "frozen/bioffn_v16/crosscell_oof.py",
+      "source_archive_member": "BioMeme_4_22/software/BioMeme/frozen/bioffn_v16/crosscell_oof.py",
+      "upstream_sha256": "1ef18e02daaff0c28e43e9bd12639ba62633a36c5267435ac3c191329e282d55",
+      "current_sha256": "1ef18e02daaff0c28e43e9bd12639ba62633a36c5267435ac3c191329e282d55",
+      "status": "unchanged",
+      "scientific_implementation_or_test": true
+    },
+    {
+      "path": "frozen/bioffn_v16/biological_uncertainty.py",
+      "source_archive_member": "BioMeme_4_22/software/BioMeme/frozen/bioffn_v16/biological_uncertainty.py",
+      "upstream_sha256": "0cf7aba3f498f0a1dec400e67de5f0eba4ef39cb5a8a42f83d952cf46a594401",
+      "current_sha256": "0cf7aba3f498f0a1dec400e67de5f0eba4ef39cb5a8a42f83d952cf46a594401",
+      "status": "unchanged",
+      "scientific_implementation_or_test": true
+    },
+    {
+      "path": "frozen/bioffn_v16/transfer.py",
+      "source_archive_member": "BioMeme_4_22/software/BioMeme/frozen/bioffn_v16/transfer.py",
+      "upstream_sha256": "cd77cab830bd21ddae1effef668d2c679ea79ae9032ca6320443a1e831f9b60c",
+      "current_sha256": "cd77cab830bd21ddae1effef668d2c679ea79ae9032ca6320443a1e831f9b60c",
+      "status": "unchanged",
+      "scientific_implementation_or_test": true
+    },
+    {
+      "path": "frozen/bioffn_v16/gated_transfer.py",
+      "source_archive_member": "BioMeme_4_22/software/BioMeme/frozen/bioffn_v16/gated_transfer.py",
+      "upstream_sha256": "db795c1e9356331e290f88deb743dae8218dba2ac83037bae64f8faa4c7ea5c9",
+      "current_sha256": "db795c1e9356331e290f88deb743dae8218dba2ac83037bae64f8faa4c7ea5c9",
+      "status": "unchanged",
+      "scientific_implementation_or_test": true
+    },
+    {
+      "path": "frozen/bioffn_v16/confirmation_statistics.py",
+      "source_archive_member": "BioMeme_4_22/software/BioMeme/frozen/bioffn_v16/confirmation_statistics.py",
+      "upstream_sha256": "02639313a9bdcdbd4d12e682924fef6c07e3f5216d57f8d3b1968cba20457c59",
+      "current_sha256": "02639313a9bdcdbd4d12e682924fef6c07e3f5216d57f8d3b1968cba20457c59",
+      "status": "unchanged",
+      "scientific_implementation_or_test": true
+    },
+    {
+      "path": "frozen/bioffn_v11/multiwell.py",
+      "source_archive_member": "BioMeme_4_22/software/BioMeme/frozen/bioffn_v11/multiwell.py",
+      "upstream_sha256": "aef3adf6a234b2214d403df4721d9913652904a728cb823880b8eea7d716a4d6",
+      "current_sha256": "aef3adf6a234b2214d403df4721d9913652904a728cb823880b8eea7d716a4d6",
+      "status": "unchanged",
+      "scientific_implementation_or_test": true
+    },
+    {
+      "path": "frozen/bioffn_v11/__init__.py",
+      "source_archive_member": "BioMeme_4_22/software/BioMeme/frozen/bioffn_v11/__init__.py",
+      "upstream_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "current_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "status": "unchanged",
+      "scientific_implementation_or_test": true
+    },
+    {
+      "path": "frozen/bioffn_v10/memory.py",
+      "source_archive_member": "BioMeme_4_22/software/BioMeme/frozen/bioffn_v10/memory.py",
+      "upstream_sha256": "33cd7da03c23550c54a7ca0fb01782179d73d26ad3e1fc61cd4b1c41e9e70500",
+      "current_sha256": "33cd7da03c23550c54a7ca0fb01782179d73d26ad3e1fc61cd4b1c41e9e70500",
+      "status": "unchanged",
+      "scientific_implementation_or_test": true
+    },
+    {
+      "path": "frozen/bioffn_v10/__init__.py",
+      "source_archive_member": "BioMeme_4_22/software/BioMeme/frozen/bioffn_v10/__init__.py",
+      "upstream_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "current_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "status": "unchanged",
+      "scientific_implementation_or_test": true
+    },
+    {
+      "path": "frozen/bioffn_v5/metrics.py",
+      "source_archive_member": "BioMeme_4_22/software/BioMeme/frozen/bioffn_v5/metrics.py",
+      "upstream_sha256": "3f91a98642b1da8e3144768ce2d2ceb7c79c10956a3885b3b7c6bafbb327cb95",
+      "current_sha256": "3f91a98642b1da8e3144768ce2d2ceb7c79c10956a3885b3b7c6bafbb327cb95",
+      "status": "unchanged",
+      "scientific_implementation_or_test": true
+    },
+    {
+      "path": "frozen/bioffn_v5/__init__.py",
+      "source_archive_member": "BioMeme_4_22/software/BioMeme/frozen/bioffn_v5/__init__.py",
+      "upstream_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "current_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "status": "unchanged",
+      "scientific_implementation_or_test": true
+    },
+    {
+      "path": "frozen/bioffn_v12/activity.py",
+      "source_archive_member": "BioMeme_4_22/software/BioMeme/frozen/bioffn_v12/activity.py",
+      "upstream_sha256": "6f3a07b5e2c654e500ae69854d04bb3953a225a4da8e8d674cadb3e79693946c",
+      "current_sha256": "6f3a07b5e2c654e500ae69854d04bb3953a225a4da8e8d674cadb3e79693946c",
+      "status": "unchanged",
+      "scientific_implementation_or_test": true
+    },
+    {
+      "path": "frozen/bioffn_v12/__init__.py",
+      "source_archive_member": "BioMeme_4_22/software/BioMeme/frozen/bioffn_v12/__init__.py",
+      "upstream_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "current_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "status": "unchanged",
+      "scientific_implementation_or_test": true
+    },
+    {
+      "path": "frozen/bioffn_v14/memory.py",
+      "source_archive_member": "BioMeme_4_22/software/BioMeme/frozen/bioffn_v14/memory.py",
+      "upstream_sha256": "73bd601615a481939a7ce56d575c45c8ad38ae7b6512d3dc762845d16a961778",
+      "current_sha256": "73bd601615a481939a7ce56d575c45c8ad38ae7b6512d3dc762845d16a961778",
+      "status": "unchanged",
+      "scientific_implementation_or_test": true
+    },
+    {
+      "path": "frozen/bioffn_v14/__init__.py",
+      "source_archive_member": "BioMeme_4_22/software/BioMeme/frozen/bioffn_v14/__init__.py",
+      "upstream_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "current_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "status": "unchanged",
+      "scientific_implementation_or_test": true
+    },
+    {
+      "path": "frozen/bioffn_v13/kernel.py",
+      "source_archive_member": "BioMeme_4_22/software/BioMeme/frozen/bioffn_v13/kernel.py",
+      "upstream_sha256": "4e680d6648eca6514e13cc1dce3e5bf227802e61162e61256457b22786a88697",
+      "current_sha256": "4e680d6648eca6514e13cc1dce3e5bf227802e61162e61256457b22786a88697",
+      "status": "unchanged",
+      "scientific_implementation_or_test": true
+    },
+    {
+      "path": "frozen/bioffn_v13/linear.py",
+      "source_archive_member": "BioMeme_4_22/software/BioMeme/frozen/bioffn_v13/linear.py",
+      "upstream_sha256": "1c12e88db34f63057b017a49c83aa758247db283e78a14baf7ffcf1263252fc9",
+      "current_sha256": "1c12e88db34f63057b017a49c83aa758247db283e78a14baf7ffcf1263252fc9",
+      "status": "unchanged",
+      "scientific_implementation_or_test": true
+    },
+    {
+      "path": "frozen/bioffn_v13/__init__.py",
+      "source_archive_member": "BioMeme_4_22/software/BioMeme/frozen/bioffn_v13/__init__.py",
+      "upstream_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "current_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "status": "unchanged",
+      "scientific_implementation_or_test": true
+    },
+    {
+      "path": "frozen/bioffn_v7/baselines.py",
+      "source_archive_member": "BioMeme_4_22/software/BioMeme/frozen/bioffn_v7/baselines.py",
+      "upstream_sha256": "816c1838683ca0e778f57749478199ae4c893de663901306512d5bd6d8cfd5b8",
+      "current_sha256": "816c1838683ca0e778f57749478199ae4c893de663901306512d5bd6d8cfd5b8",
+      "status": "unchanged",
+      "scientific_implementation_or_test": true
+    },
+    {
+      "path": "frozen/bioffn_v7/__init__.py",
+      "source_archive_member": "BioMeme_4_22/software/BioMeme/frozen/bioffn_v7/__init__.py",
+      "upstream_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "current_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "status": "unchanged",
+      "scientific_implementation_or_test": true
+    },
+    {
+      "path": "frozen/bioffn_v7/features.py",
+      "source_archive_member": "BioMeme_4_22/software/BioMeme/frozen/bioffn_v7/features.py",
+      "upstream_sha256": "47c0ca1c5afdbcc3791a3d4e779e1d64a2da5a8ec21e1f34fde2012bb6f43b47",
+      "current_sha256": "47c0ca1c5afdbcc3791a3d4e779e1d64a2da5a8ec21e1f34fde2012bb6f43b47",
+      "status": "unchanged",
+      "scientific_implementation_or_test": true
+    },
+    {
+      "path": "frozen/bioffn_v9/memory.py",
+      "source_archive_member": "BioMeme_4_22/software/BioMeme/frozen/bioffn_v9/memory.py",
+      "upstream_sha256": "616a27650e21e2830b6484417f761fc734523d81c2231e6a608d56f298ee0d76",
+      "current_sha256": "616a27650e21e2830b6484417f761fc734523d81c2231e6a608d56f298ee0d76",
+      "status": "unchanged",
+      "scientific_implementation_or_test": true
+    },
+    {
+      "path": "frozen/bioffn_v9/__init__.py",
+      "source_archive_member": "BioMeme_4_22/software/BioMeme/frozen/bioffn_v9/__init__.py",
+      "upstream_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "current_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "status": "unchanged",
+      "scientific_implementation_or_test": true
+    },
+    {
+      "path": "frozen/bioffn_v8/memory.py",
+      "source_archive_member": "BioMeme_4_22/software/BioMeme/frozen/bioffn_v8/memory.py",
+      "upstream_sha256": "af7b0ca593da10a4e4f43b3d63e174526aef05b2c6339e91fc18261be47f2ea9",
+      "current_sha256": "af7b0ca593da10a4e4f43b3d63e174526aef05b2c6339e91fc18261be47f2ea9",
+      "status": "unchanged",
+      "scientific_implementation_or_test": true
+    },
+    {
+      "path": "frozen/bioffn_v8/__init__.py",
+      "source_archive_member": "BioMeme_4_22/software/BioMeme/frozen/bioffn_v8/__init__.py",
+      "upstream_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "current_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "status": "unchanged",
+      "scientific_implementation_or_test": true
+    },
+    {
+      "path": "tests/test_community.py",
+      "source_archive_member": "BioMeme_4_22/software/BioMeme/tests/test_community.py",
+      "upstream_sha256": "e13cdd7dfab32a666c4f479c34b6cbcff7399fe5394b38e1966b22a098c5060b",
+      "current_sha256": "e13cdd7dfab32a666c4f479c34b6cbcff7399fe5394b38e1966b22a098c5060b",
+      "status": "unchanged",
+      "scientific_implementation_or_test": true
+    },
+    {
+      "path": "tests/test_reproduction.py",
+      "source_archive_member": "BioMeme_4_22/software/BioMeme/tests/test_reproduction.py",
+      "upstream_sha256": "7d3902937c7d818f65fc1a1d36331db89815551b18cfd319f0dec474e7b21c23",
+      "current_sha256": "7d3902937c7d818f65fc1a1d36331db89815551b18cfd319f0dec474e7b21c23",
+      "status": "unchanged",
+      "scientific_implementation_or_test": true
+    },
+    {
+      "path": "run_demo.py",
+      "source_archive_member": "BioMeme_4_22/software/BioMeme/run_demo.py",
+      "upstream_sha256": "f04442104f9e8975f288da8386e62b6989376d8e49d11249bc4bc49ee388c13e",
+      "current_sha256": "f04442104f9e8975f288da8386e62b6989376d8e49d11249bc4bc49ee388c13e",
+      "status": "unchanged",
+      "scientific_implementation_or_test": true
+    },
+    {
+      "path": "run_memory.py",
+      "source_archive_member": "BioMeme_4_22/software/BioMeme/run_memory.py",
+      "upstream_sha256": "41139ba9b81c7af482a421cf37a77cabb88f71d380239e61bebba0e718a69678",
+      "current_sha256": "41139ba9b81c7af482a421cf37a77cabb88f71d380239e61bebba0e718a69678",
+      "status": "unchanged",
+      "scientific_implementation_or_test": true
+    },
+    {
+      "path": "tutorial_memory.py",
+      "source_archive_member": "BioMeme_4_22/software/BioMeme/tutorial_memory.py",
+      "upstream_sha256": "31af887b7e2083c690249ce36cfb94f848c65131272e0a9bfd751048dd443667",
+      "current_sha256": "31af887b7e2083c690249ce36cfb94f848c65131272e0a9bfd751048dd443667",
+      "status": "unchanged",
+      "scientific_implementation_or_test": true
+    },
+    {
+      "path": "reproduce_stats.py",
+      "source_archive_member": "BioMeme_4_22/software/BioMeme/reproduce_stats.py",
+      "upstream_sha256": "07457461a17f410af61598b5df7b27abb57e09538c44ac3c02eec251ff7dd639",
+      "current_sha256": "07457461a17f410af61598b5df7b27abb57e09538c44ac3c02eec251ff7dd639",
+      "status": "unchanged",
+      "scientific_implementation_or_test": true
+    },
+    {
+      "path": "run_all.sh",
+      "source_archive_member": "BioMeme_4_22/software/BioMeme/run_all.sh",
+      "upstream_sha256": "11ce9107d9f769e9b10497f34a7bdfad09c5fde9e91e09ee3229a8da5cfb2105",
+      "current_sha256": "769c7e04fab192275c2edbbf1352eb6e9891cb869d817a815670bf066009fc17",
+      "status": "adapted_documentation_or_wrapper",
+      "scientific_implementation_or_test": false
+    },
+    {
+      "path": "requirements.txt",
+      "source_archive_member": "BioMeme_4_22/software/BioMeme/requirements.txt",
+      "upstream_sha256": "6e69ffe6f7841e5d8aea3f05a4bf77c60055d3b0717fcccbb31fd19647e07b7b",
+      "current_sha256": "6e69ffe6f7841e5d8aea3f05a4bf77c60055d3b0717fcccbb31fd19647e07b7b",
+      "status": "unchanged",
+      "scientific_implementation_or_test": true
+    },
+    {
+      "path": "requirements-test.txt",
+      "source_archive_member": "BioMeme_4_22/software/BioMeme/requirements-test.txt",
+      "upstream_sha256": "90ef93dc288e2351f5b731977e85b226bdb624d1b31e6c07bfb9ac4090193632",
+      "current_sha256": "90ef93dc288e2351f5b731977e85b226bdb624d1b31e6c07bfb9ac4090193632",
+      "status": "unchanged",
+      "scientific_implementation_or_test": true
+    },
+    {
+      "path": "environment.yml",
+      "source_archive_member": "BioMeme_4_22/software/BioMeme/environment.yml",
+      "upstream_sha256": "3ab85c89dd5737152b6d7479472a33a88a97dd05f0729210d3cce18a2a67e487",
+      "current_sha256": "178e0a2f7cb562d5b3f809129f88f546e69d8d6e231189bc421ebc22e1b71f93",
+      "status": "adapted_documentation_or_wrapper",
+      "scientific_implementation_or_test": false
+    },
+    {
+      "path": "LICENSE",
+      "source_archive_member": "BioMeme_4_22/software/BioMeme/LICENSE",
+      "upstream_sha256": "1dea1a2db4d7d41115477d2d38f140086460ff3315796e3f30f77b1d79d3894d",
+      "current_sha256": "1dea1a2db4d7d41115477d2d38f140086460ff3315796e3f30f77b1d79d3894d",
+      "status": "unchanged",
+      "scientific_implementation_or_test": false
+    },
+    {
+      "path": "DATA_SOURCES.md",
+      "source_archive_member": "BioMeme_4_22/software/BioMeme/DATA_SOURCES.md",
+      "upstream_sha256": "d9ecc2ab76f44bdaa8d33229f4619e7725b7d8443d36e76be4893aabb18555a7",
+      "current_sha256": "714c84cac0453bdc30beb1d206ffe02d8d20f1518e9d1f84335533e465901ac8",
+      "status": "adapted_documentation_or_wrapper",
+      "scientific_implementation_or_test": false
+    },
+    {
+      "path": "USE_YOUR_DATA.md",
+      "source_archive_member": "BioMeme_4_22/software/BioMeme/USE_YOUR_DATA.md",
+      "upstream_sha256": "a00719618c9314069514c763ad036fd4bcd6bd214f520413ee3b0cb95326f75c",
+      "current_sha256": "29f2f7fcdbd3e7ba12dbf35af1c07d3eb382bfc0a695c888180d3f18ad235650",
+      "status": "adapted_documentation_or_wrapper",
+      "scientific_implementation_or_test": false
+    },
+    {
+      "path": "SOURCE_FUNCTIONS.json",
+      "source_archive_member": "BioMeme_4_22/software/BioMeme/SOURCE_FUNCTIONS.json",
+      "upstream_sha256": "9748695c9dc09548916a02bd1c8f9dabb20f5d8625681738dec216defb48f0c4",
+      "current_sha256": "9748695c9dc09548916a02bd1c8f9dabb20f5d8625681738dec216defb48f0c4",
+      "status": "unchanged",
+      "scientific_implementation_or_test": false
+    },
+    {
+      "path": "statistics/core/tahoe_statistics.py",
+      "source_archive_member": "BioMeme_4_22/software/BioMeme/statistics/core/tahoe_statistics.py",
+      "upstream_sha256": "33932fb0597d50552e48ec07081d0c3d255514b4813f0da7350edf1bb2c3ef12",
+      "current_sha256": "33932fb0597d50552e48ec07081d0c3d255514b4813f0da7350edf1bb2c3ef12",
+      "status": "unchanged",
+      "scientific_implementation_or_test": true
+    },
+    {
+      "path": "statistics/a5/run_a5.py",
+      "source_archive_member": "BioMeme_4_22/software/BioMeme/statistics/a5/run_a5.py",
+      "upstream_sha256": "d6bb13fbbf6a1ec1f40ba5ee282031f16bfe9fbcb26680bea7afe987eea1f75c",
+      "current_sha256": "d6bb13fbbf6a1ec1f40ba5ee282031f16bfe9fbcb26680bea7afe987eea1f75c",
+      "status": "unchanged",
+      "scientific_implementation_or_test": true
+    }
+  ],
+  "github_packaging_version": "4.22",
+  "unchanged_scientific_files": 45,
+  "copied_files": 51
+}

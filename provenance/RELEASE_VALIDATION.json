@@ -1,0 +1,93 @@
+{
+  "release": "4.22",
+  "validated_at_utc": "2026-11-06T13:10:41.386892+00:00",
+  "status": "PASS",
+  "platform": "macOS-14.7.6-arm64-arm-64bit",
+  "environment": {
+    "python": "3.12.14 (main, Aug 25 2026, 13:50:33) [Clang 22.1.3 ]",
+    "numpy": "2.5.3",
+    "scipy": "1.18.1"
+  },
+  "fresh_virtual_environment": true,
+  "called_from_outside_repository": true,
+  "validation_performed_by": "Codex execution of the packaged scripts and automated assertions; this is not relabelled as independent human verification.",
+  "scientific_source_files_identical_to_published_archive": 45,
+  "downloaded_input_files_checked": 52,
+  "download_archive_sha256": "34839b44223f659a21ecfab3b7d15fed11b60e15a80a984665a28376b0b3f32c",
+  "data_fetch_validation": "Pinned published archive supplied locally; size, archive SHA-256, allowlist and all extracted file hashes verified. Anonymous HTTPS HEAD returned 200 and the correct content length. The complete archive was not redundantly downloaded.",
+  "tests": {
+    "passed": 28,
+    "failed": 0,
+    "original_tests": 14,
+    "fetcher_tests": 14,
+    "pytest_summary": "28 passed in 8.89s"
+  },
+  "fit": {
+    "status": "passed",
+    "outer_folds": 4,
+    "query_compounds": 101,
+    "query_conditions": 404,
+    "morphology_features": 1694,
+    "all_predictions_sealed_before_scoring": true,
+    "max_relative_prediction_error": 0.0,
+    "compound_averaged_scores": {
+      "BioMeme": {
+        "mse": 3.620761968570476,
+        "direction_error": 0.3315620583891432
+      },
+      "memory": {
+        "mse": 4.793607554244226,
+        "direction_error": 0.43907016615497385
+      },
+      "backbone": {
+        "mse": 5.527992242423976,
+        "direction_error": 0.619639423647635
+      }
+    }
+  },
+  "statistics": {
+    "status": "passed",
+    "comparisons": 30,
+    "original_direction_tests": 9,
+    "direction_tests_favourable": 9,
+    "maximum_absolute_difference_from_archive": 3.3306690738754696e-16,
+    "bootstrap_draws": 10000,
+    "bootstrap_seed": 20261785,
+    "bootstrap_matrices_identical": true,
+    "scopes": [
+      "Table 1: all five common loss contrasts for U2OS, sci-Plex3 and Tahoe; original 9/9 direction tests",
+      "Table 2: all-reference same-head and reference-informed MLP comparisons, with exact arm means"
+    ],
+    "pooling": "Archived per-compound losses preserve seed-score averaging, within-compound task averaging and resource-specific target averaging; no prediction averaging introduced.",
+    "statistical_units": "292 U2OS, 120 sci-Plex3, 277 Tahoe compounds"
+  },
+  "a5": {
+    "passed": true,
+    "max_statistic_absolute_error": 0.0,
+    "bootstrap_indices_identical": true,
+    "compounds": 224,
+    "query_rows": 896,
+    "scope": "Stored complete weights and typed annotations through rankings, whole-compound statistics and archived reporting rule."
+  },
+  "memory_tutorial": {
+    "after_reconstruction_max_abs_error": 8.1601392309949e-15,
+    "before_reconstruction_max_abs_error": 7.466249840604178e-15,
+    "elapsed_seconds": 10.282528624986298,
+    "feature_count": 1694,
+    "model": "BioMeme kernel-memory component; reference-cell transfer is not fitted in this tutorial",
+    "numpy": "2.5.3",
+    "original_memory_unchanged": true,
+    "platform": "macOS-14.7.6-arm64-arm-64bit",
+    "prediction_change_l2": 18.234247414330323,
+    "python": "3.12.14 (main, Aug 25 2026, 13:50:33) [Clang 22.1.3 ]",
+    "query_outcomes_read": false,
+    "query_rows": 8,
+    "scope": "Software tutorial, not a new scientific evaluation",
+    "status": "passed",
+    "training_rows_after": 284,
+    "training_rows_before": 276,
+    "update_matches_fresh_fit_max_abs_error": 0.0
+  },
+  "platform_scope": "Current GitHub package tested on macOS ARM64. CI is configured for Linux and macOS but has not been executed on GitHub.",
+  "source_map_sha256": "3186924078f225f797b35dd6b95ed04a9f53985def29b83fa4694d228ae7e6d2"
+}

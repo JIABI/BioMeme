@@ -1,0 +1,32 @@
+name: Interface and data integrity checks
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  lightweight-tests:
+    name: Python 3.12 on ${{ matrix.os }}
+    runs-on: ${{ matrix.os }}
+    timeout-minutes: 15
+    strategy:
+      fail-fast: false
+      matrix:
+        os: [ubuntu-latest, macos-latest]
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+          cache-dependency-path: |
+            requirements.txt
+            requirements-test.txt
+      - name: Install pinned dependencies
+        run: python -m pip install -r requirements.txt -r requirements-test.txt
+      - name: Test memory interface and data retrieval
+        run: python -m pytest -q tests/test_community.py tests/test_fetch_data.py

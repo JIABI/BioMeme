@@ -1,0 +1,159 @@
+[
+  {
+    "original": "/ARCHIVE/SA_OPAL/biology_kernel_shared_response_20261006/runs/v16_u2os_confirmation_20261018_03/source_snapshot/bioffn_v5/metrics.py",
+    "packaged": "frozen/bioffn_v5/metrics.py",
+    "original_sha256": "3f91a98642b1da8e3144768ce2d2ceb7c79c10956a3885b3b7c6bafbb327cb95",
+    "packaged_sha256": "3f91a98642b1da8e3144768ce2d2ceb7c79c10956a3885b3b7c6bafbb327cb95",
+    "change": null
+  },
+  {
+    "original": "/ARCHIVE/SA_OPAL/biology_kernel_shared_response_20261006/runs/v16_u2os_confirmation_20261018_03/source_snapshot/bioffn_v11/multiwell.py",
+    "packaged": "frozen/bioffn_v11/multiwell.py",
+    "original_sha256": "aef3adf6a234b2214d403df4721d9913652904a728cb823880b8eea7d716a4d6",
+    "packaged_sha256": "aef3adf6a234b2214d403df4721d9913652904a728cb823880b8eea7d716a4d6",
+    "change": null
+  },
+  {
+    "original": "/ARCHIVE/SA_OPAL/biology_kernel_shared_response_20261006/runs/v16_u2os_confirmation_20261018_03/source_snapshot/bioffn_v7/baselines.py",
+    "packaged": "frozen/bioffn_v7/baselines.py",
+    "original_sha256": "816c1838683ca0e778f57749478199ae4c893de663901306512d5bd6d8cfd5b8",
+    "packaged_sha256": "816c1838683ca0e778f57749478199ae4c893de663901306512d5bd6d8cfd5b8",
+    "change": null
+  },
+  {
+    "original": "/ARCHIVE/SA_OPAL/biology_kernel_shared_response_20261006/runs/v16_u2os_confirmation_20261018_03/source_snapshot/bioffn_v16/crosscell_oof.py",
+    "packaged": "frozen/bioffn_v16/crosscell_oof.py",
+    "original_sha256": "ce994367fe014ced43bb102fc6f6eeb36f377808c458b76ef0273f0bdb27c0a6",
+    "packaged_sha256": "1ef18e02daaff0c28e43e9bd12639ba62633a36c5267435ac3c191329e282d55",
+    "change": "Only optional neural import rerouted to a lazy loader. Numerical function bodies unchanged; demo calls memory branch only."
+  },
+  {
+    "original": "/ARCHIVE/SA_OPAL/biology_kernel_shared_response_20261006/runs/v16_u2os_confirmation_20261018_03/source_snapshot/bioffn_v16/crosscell.py",
+    "packaged": "frozen/bioffn_v16/crosscell.py",
+    "original_sha256": "f8e76bf23be880b7a070e1a8c1b9db8ac41269dbc529e9fda46d33d39ac35fca",
+    "packaged_sha256": "f8e76bf23be880b7a070e1a8c1b9db8ac41269dbc529e9fda46d33d39ac35fca",
+    "change": null
+  },
+  {
+    "original": "/ARCHIVE/SA_OPAL/biology_kernel_shared_response_20261006/runs/v16_u2os_confirmation_20261018_03/source_snapshot/bioffn_v14/memory.py",
+    "packaged": "frozen/bioffn_v14/memory.py",
+    "original_sha256": "73bd601615a481939a7ce56d575c45c8ad38ae7b6512d3dc762845d16a961778",
+    "packaged_sha256": "73bd601615a481939a7ce56d575c45c8ad38ae7b6512d3dc762845d16a961778",
+    "change": null
+  },
+  {
+    "original": "/ARCHIVE/SA_OPAL/biology_kernel_shared_response_20261006/runs/v16_u2os_confirmation_20261018_03/source_snapshot/bioffn_v13/kernel.py",
+    "packaged": "frozen/bioffn_v13/kernel.py",
+    "original_sha256": "4e680d6648eca6514e13cc1dce3e5bf227802e61162e61256457b22786a88697",
+    "packaged_sha256": "4e680d6648eca6514e13cc1dce3e5bf227802e61162e61256457b22786a88697",
+    "change": null
+  },
+  {
+    "original": "/ARCHIVE/SA_OPAL/biology_kernel_shared_response_20261006/runs/v16_u2os_confirmation_20261018_03/source_snapshot/bioffn_v10/memory.py",
+    "packaged": "frozen/bioffn_v10/memory.py",
+    "original_sha256": "33cd7da03c23550c54a7ca0fb01782179d73d26ad3e1fc61cd4b1c41e9e70500",
+    "packaged_sha256": "33cd7da03c23550c54a7ca0fb01782179d73d26ad3e1fc61cd4b1c41e9e70500",
+    "change": null
+  },
+  {
+    "original": "/ARCHIVE/SA_OPAL/biology_kernel_shared_response_20261006/runs/v16_u2os_confirmation_20261018_03/source_snapshot/bioffn_v9/memory.py",
+    "packaged": "frozen/bioffn_v9/memory.py",
+    "original_sha256": "616a27650e21e2830b6484417f761fc734523d81c2231e6a608d56f298ee0d76",
+    "packaged_sha256": "616a27650e21e2830b6484417f761fc734523d81c2231e6a608d56f298ee0d76",
+    "change": null
+  },
+  {
+    "original": "/ARCHIVE/SA_OPAL/biology_kernel_shared_response_20261006/runs/v16_u2os_confirmation_20261018_03/source_snapshot/bioffn_v8/memory.py",
+    "packaged": "frozen/bioffn_v8/memory.py",
+    "original_sha256": "af7b0ca593da10a4e4f43b3d63e174526aef05b2c6339e91fc18261be47f2ea9",
+    "packaged_sha256": "af7b0ca593da10a4e4f43b3d63e174526aef05b2c6339e91fc18261be47f2ea9",
+    "change": null
+  },
+  {
+    "original": "/ARCHIVE/SA_OPAL/biology_kernel_shared_response_20261006/runs/v16_u2os_confirmation_20261018_03/source_snapshot/bioffn_v7/features.py",
+    "packaged": "frozen/bioffn_v7/features.py",
+    "original_sha256": "47c0ca1c5afdbcc3791a3d4e779e1d64a2da5a8ec21e1f34fde2012bb6f43b47",
+    "packaged_sha256": "47c0ca1c5afdbcc3791a3d4e779e1d64a2da5a8ec21e1f34fde2012bb6f43b47",
+    "change": null
+  },
+  {
+    "original": "/ARCHIVE/SA_OPAL/biology_kernel_shared_response_20261006/runs/v16_u2os_confirmation_20261018_03/source_snapshot/bioffn_v12/activity.py",
+    "packaged": "frozen/bioffn_v12/activity.py",
+    "original_sha256": "6f3a07b5e2c654e500ae69854d04bb3953a225a4da8e8d674cadb3e79693946c",
+    "packaged_sha256": "6f3a07b5e2c654e500ae69854d04bb3953a225a4da8e8d674cadb3e79693946c",
+    "change": null
+  },
+  {
+    "original": "/ARCHIVE/SA_OPAL/biology_kernel_shared_response_20261006/runs/v16_u2os_confirmation_20261018_03/source_snapshot/bioffn_v13/linear.py",
+    "packaged": "frozen/bioffn_v13/linear.py",
+    "original_sha256": "1c12e88db34f63057b017a49c83aa758247db283e78a14baf7ffcf1263252fc9",
+    "packaged_sha256": "1c12e88db34f63057b017a49c83aa758247db283e78a14baf7ffcf1263252fc9",
+    "change": null
+  },
+  {
+    "original": "/ARCHIVE/SA_OPAL/biology_kernel_shared_response_20261006/runs/v16_u2os_confirmation_20261018_03/source_snapshot/bioffn_v16/transfer.py",
+    "packaged": "frozen/bioffn_v16/transfer.py",
+    "original_sha256": "cd77cab830bd21ddae1effef668d2c679ea79ae9032ca6320443a1e831f9b60c",
+    "packaged_sha256": "cd77cab830bd21ddae1effef668d2c679ea79ae9032ca6320443a1e831f9b60c",
+    "change": null
+  },
+  {
+    "original": "/ARCHIVE/SA_OPAL/biology_kernel_shared_response_20261006/runs/v16_u2os_confirmation_20261018_03/source_snapshot/bioffn_v16/gated_transfer.py",
+    "packaged": "frozen/bioffn_v16/gated_transfer.py",
+    "original_sha256": "db795c1e9356331e290f88deb743dae8218dba2ac83037bae64f8faa4c7ea5c9",
+    "packaged_sha256": "db795c1e9356331e290f88deb743dae8218dba2ac83037bae64f8faa4c7ea5c9",
+    "change": null
+  },
+  {
+    "original": "/ARCHIVE/SA_OPAL/biology_kernel_shared_response_20261006/runs/v16_u2os_confirmation_20261018_03/source_snapshot/bioffn_v16/memory.py",
+    "packaged": "frozen/bioffn_v16/memory.py",
+    "original_sha256": "03818820b35b0c39250104344dbe9bba5314593ed1d96856bcaa7cc483b37135",
+    "packaged_sha256": "03818820b35b0c39250104344dbe9bba5314593ed1d96856bcaa7cc483b37135",
+    "change": null
+  },
+  {
+    "original": "/ARCHIVE/SA_OPAL/biology_kernel_shared_response_20261006/runs/v16_u2os_confirmation_20261018_03/source_snapshot/bioffn_v16/confirmation_models.py",
+    "function": "donor_arrays",
+    "line": 398,
+    "end_line": 422,
+    "block_sha256": "52e9ffa5bb5d71bf4f3f049df5081679fcc55836e9f15d3da8b4674adaf3df4e",
+    "change": "Function copied verbatim into array adapter; imports only."
+  },
+  {
+    "original": "/ARCHIVE/SA_OPAL/biology_kernel_shared_response_20261006/runs/v16_u2os_confirmation_20261018_03/source_snapshot/bioffn_v16/confirmation_models.py",
+    "function": "fit_k4c_head",
+    "line": 425,
+    "end_line": 443,
+    "block_sha256": "448d861abdb7b4f7c24c0012569bea83fd5ea7e3d5ae07ba41c738e4ce258fba",
+    "change": "Function copied verbatim into array adapter; imports only."
+  },
+  {
+    "original": "/ARCHIVE/SA_OPAL/biology_kernel_shared_response_20261006/runs/v16_u2os_confirmation_20261018_03/source_snapshot/bioffn_v16/dualkey.py",
+    "function": "_chemical_rows",
+    "line": 24,
+    "end_line": 46,
+    "change": "Function copied verbatim; imports only.",
+    "packaged_sha256": "12b68d9ac4a6312c1e547b27bcad6feb3eb11faa600d1541b6fa2d63f256340e"
+  },
+  {
+    "original": "/ARCHIVE/SA_OPAL/biology_kernel_shared_response_20261006/runs/v16_u2os_confirmation_20261018_03/source_snapshot/bioffn_v16/biological_uncertainty.py",
+    "packaged": "frozen/bioffn_v16/biological_uncertainty.py",
+    "original_sha256": "0cf7aba3f498f0a1dec400e67de5f0eba4ef39cb5a8a42f83d952cf46a594401",
+    "packaged_sha256": "0cf7aba3f498f0a1dec400e67de5f0eba4ef39cb5a8a42f83d952cf46a594401",
+    "change": null
+  },
+  {
+    "original": "/ARCHIVE/SA_OPAL/BioMeme_NC_revision4_9_20261102/reviewer_code/mainimplementation/bioffn_v16/confirmation_statistics.py",
+    "packaged": "frozen/bioffn_v16/confirmation_statistics.py",
+    "original_sha256": "02639313a9bdcdbd4d12e682924fef6c07e3f5216d57f8d3b1968cba20457c59",
+    "packaged_sha256": "02639313a9bdcdbd4d12e682924fef6c07e3f5216d57f8d3b1968cba20457c59",
+    "change": null
+  },
+  {
+    "original": "/ARCHIVE/SA_OPAL/BioMeme_NC_revision4_9_20261102/reviewer_code/independent_verification/Tahoe/code/tr_scores.py",
+    "packaged": "statistics/core/tahoe_statistics.py",
+    "original_sha256": "33932fb0597d50552e48ec07081d0c3d255514b4813f0da7350edf1bb2c3ef12",
+    "packaged_sha256": "33932fb0597d50552e48ec07081d0c3d255514b4813f0da7350edf1bb2c3ef12",
+    "change": null
+  }
+]

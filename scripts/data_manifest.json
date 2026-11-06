@@ -1,0 +1,274 @@
+{
+  "schema_version": 1,
+  "source_doi": "10.5281/zenodo.24008759",
+  "description": "Immutable processed inputs and archived expectations for the four-fold U2OS reproduction and statistics replay. Scientific source code is supplied in this repository, never downloaded by the helper.",
+  "archive": {
+    "filename": "BioMeme_4_22_software.zip",
+    "url": "https://zenodo.org/api/records/24008759/files/BioMeme_4_22_software.zip/content",
+    "source_prefix": "BioMeme_4_22/software/BioMeme",
+    "bytes": 381753503,
+    "sha256": "34839b44223f659a21ecfab3b7d15fed11b60e15a80a984665a28376b0b3f32c"
+  },
+  "files": [
+    {
+      "path": "data/u2os_demo/COMPACTION.json",
+      "bytes": 983,
+      "sha256": "0bf6f155868ca9e28dcb9894c3e4a7867b78added003b1e86d862bfd75dc4353"
+    },
+    {
+      "path": "data/u2os_demo/EXPECTED_METRICS.json",
+      "bytes": 461,
+      "sha256": "934ea23c348f9128b00400eabb035c9b05eeccb611e530f221de12ee409bb884"
+    },
+    {
+      "path": "data/u2os_demo/MANIFEST.json",
+      "bytes": 841552,
+      "sha256": "03826e05c1d6e42c0fce6909db61e75d018618a782029b58fc4220ca4387d221"
+    },
+    {
+      "path": "data/u2os_demo/SOURCE_RESIDUALS_PROVENANCE.json",
+      "bytes": 4414,
+      "sha256": "a5d8beaa2e62de496e6e956e86b4167a86dd2713ab0735a82ae79c8a7d4ecd03"
+    },
+    {
+      "path": "data/u2os_demo/archived_source_residuals.npz",
+      "bytes": 3292570,
+      "sha256": "306fdf5230f74155f0a42c0f507dff08be89808656a03e99c0661c312484d7cd"
+    },
+    {
+      "path": "data/u2os_demo/coordinate_bank.npz",
+      "bytes": 3884983,
+      "sha256": "d5efb83d284c4811c887d96c2b2d8dbeef42af10dd8edc3beff0bb06986a7522"
+    },
+    {
+      "path": "data/u2os_demo/coordinate_indices.json",
+      "bytes": 99206,
+      "sha256": "15d641820ff7c08ff81b188eb800ce996e9751299104a027645025f775d5c763"
+    },
+    {
+      "path": "data/u2os_demo/core.json",
+      "bytes": 371775,
+      "sha256": "054ae12e2379a9a30491087800252ede68552683d99a8149418c0d480664461e"
+    },
+    {
+      "path": "data/u2os_demo/core.npz",
+      "bytes": 3047050,
+      "sha256": "440fcff3b3b991812a40eea9e2836d3ab8eb5a2d055608b53050e5c4c943537c"
+    },
+    {
+      "path": "data/u2os_demo/donor.npz",
+      "bytes": 6971890,
+      "sha256": "724a46fbffee90971e9e53f6305d7183e221bf2f0fbd8a4b3db7db4df7e1eacf"
+    },
+    {
+      "path": "data/u2os_demo/fold0_folds.json.gz",
+      "bytes": 281141,
+      "sha256": "7775907bbacd5dae7d4351140eeea7b7e7d03005a1d7c5a9e1531f3ea28ea8a8"
+    },
+    {
+      "path": "data/u2os_demo/fold0_query.json",
+      "bytes": 205160,
+      "sha256": "0d13a6a7117e531c8f04fa34f6d67170a75c1111f5d8735e58ec850006b2aa22"
+    },
+    {
+      "path": "data/u2os_demo/fold0_query.npz",
+      "bytes": 624657,
+      "sha256": "835ee14b0a56e548c399e0ced7d73c5ea52a1476808754d80585059d74f8a5ca"
+    },
+    {
+      "path": "data/u2os_demo/fold0_references.json",
+      "bytes": 421944,
+      "sha256": "cf835c8edfdc96a87ec45bceabe9e6456544b686dc3caefd8454a99044df1a84"
+    },
+    {
+      "path": "data/u2os_demo/fold0_references.npz",
+      "bytes": 3639597,
+      "sha256": "bdbce0c3ebd66cc4f247d798a52e58981b036d5286d2fc3029b7c3c20bec3e37"
+    },
+    {
+      "path": "data/u2os_demo/fold0_scoring_only.npz",
+      "bytes": 5694677,
+      "sha256": "95a47316da74eaa37865ae315272e53669a4ad629ab43cfabb11a893f0e446a1"
+    },
+    {
+      "path": "data/u2os_demo/fold1_folds.json.gz",
+      "bytes": 281933,
+      "sha256": "af19b6ec5de89ecdab2b5106149d05a38a8c2fd5d472da87983e2628a6dc3ed5"
+    },
+    {
+      "path": "data/u2os_demo/fold1_query.json",
+      "bytes": 200762,
+      "sha256": "f925f7de186f607266489d64a649b07cec8463bec1546eaa8f02a9e0f07a4e4f"
+    },
+    {
+      "path": "data/u2os_demo/fold1_query.npz",
+      "bytes": 604674,
+      "sha256": "e7dcaeaa148439c9f0d0671d5c3fa294c95ebfdf7c944c1422f5a7ad4b6b87c4"
+    },
+    {
+      "path": "data/u2os_demo/fold1_references.json",
+      "bytes": 426342,
+      "sha256": "ca4cbe71b4228513e063f514dae0ba5503ed06dd4daf62b62eba8478e868a4ed"
+    },
+    {
+      "path": "data/u2os_demo/fold1_references.npz",
+      "bytes": 3678875,
+      "sha256": "5faefcbbc023b4261eaa99f039409e55aad23ec589fef32caf6c1d8fc00f81b2"
+    },
+    {
+      "path": "data/u2os_demo/fold1_scoring_only.npz",
+      "bytes": 5477163,
+      "sha256": "ce7cf18270f8083134af9afcf6cf3b10783b42b9e15c44a2ed8b9cf4387806cf"
+    },
+    {
+      "path": "data/u2os_demo/fold2_folds.json.gz",
+      "bytes": 281954,
+      "sha256": "772de45aa615ffd0bb8c6201cc608a6608bdd8565540f1b823b1242145d8863d"
+    },
+    {
+      "path": "data/u2os_demo/fold2_query.json",
+      "bytes": 200756,
+      "sha256": "5a68b2f13d2bc2a1bad5aa9002f45faffd77ba20d7eee2f2484cf0f0837974cf"
+    },
+    {
+      "path": "data/u2os_demo/fold2_query.npz",
+      "bytes": 600970,
+      "sha256": "5e8cdccb6a615f925e6007600a6cccc519bab72bc53d14a9a96902db9476e8a4"
+    },
+    {
+      "path": "data/u2os_demo/fold2_references.json",
+      "bytes": 426348,
+      "sha256": "1815b03bf52474b1c089af50c0bbb614cc75f10c1461628c3d3429473a210285"
+    },
+    {
+      "path": "data/u2os_demo/fold2_references.npz",
+      "bytes": 3682576,
+      "sha256": "66a7aeafa846f505afcf56636e8fc2c88a11d8095b89bc9d73f2452b4fe0d9e4"
+    },
+    {
+      "path": "data/u2os_demo/fold2_scoring_only.npz",
+      "bytes": 5479641,
+      "sha256": "d9327bf0ddaf1e2e7d08abdba3d29700c294abaa5d06e4cb09709ccf6566f737"
+    },
+    {
+      "path": "data/u2os_demo/fold3_folds.json.gz",
+      "bytes": 281923,
+      "sha256": "c7886aa0ba6fd6132bbf9234136d09e798cea54da7fa00f0e4b2bf4326cd9071"
+    },
+    {
+      "path": "data/u2os_demo/fold3_query.json",
+      "bytes": 200738,
+      "sha256": "3ecdcd2036db503fe0f8b83fcf59cc913377b7bb7a4951b6c8b00dcb37316ada"
+    },
+    {
+      "path": "data/u2os_demo/fold3_query.npz",
+      "bytes": 601297,
+      "sha256": "42e300d96858c0f9e2b3448c2c95d1293d0bb8f6654c7e34833f6261600ced75"
+    },
+    {
+      "path": "data/u2os_demo/fold3_references.json",
+      "bytes": 426366,
+      "sha256": "057d16f11c43b1c1d400f8e60b771a113683c36407f1a499466cf9aaadc73159"
+    },
+    {
+      "path": "data/u2os_demo/fold3_references.npz",
+      "bytes": 3685774,
+      "sha256": "cddff54057f7e6c1bed16a0af50b6ccca6b3d46d69c9deb039a3b5a8d4d387b1"
+    },
+    {
+      "path": "data/u2os_demo/fold3_scoring_only.npz",
+      "bytes": 5478020,
+      "sha256": "b8c0cb813a2427d60087a0f5336f7461c3f3339d5076b7a0523ac78bfcfc6b26"
+    },
+    {
+      "path": "statistics/core/CODE_PROVENANCE.json",
+      "bytes": 572,
+      "sha256": "a368bffcea0d5c3b81626d881849ab625d63847f6e94acd755e425b354c5694b"
+    },
+    {
+      "path": "statistics/core/PROVENANCE.json",
+      "bytes": 22085,
+      "sha256": "0855e738dd007b02a3bc30601064643b49743f2721a2c83c40d112518c631d69"
+    },
+    {
+      "path": "statistics/core/Tahoe.npz",
+      "bytes": 4698881,
+      "sha256": "413b7667e8b0f6f6caf92382e5950774810b00bfd83d0e0a8a51012509d071a7"
+    },
+    {
+      "path": "statistics/core/U2OS.npz",
+      "bytes": 4992089,
+      "sha256": "b49cf1484c4cf4f87a81f24954c8ac089e7c6087b955b90d10fa35fb26c34cd4"
+    },
+    {
+      "path": "statistics/core/expected.json",
+      "bytes": 208654,
+      "sha256": "ffcf14761f2e34477bdfe33999a60d0b2a7cb73687df57498026a1833627e59a"
+    },
+    {
+      "path": "statistics/core/sciPlex3.npz",
+      "bytes": 1760203,
+      "sha256": "b0996fe196cc9f0b00cb7ea1a592140983595e34187c645b47b260e74fc8467f"
+    },
+    {
+      "path": "statistics/a5/INPUT_MANIFEST.json",
+      "bytes": 1464,
+      "sha256": "b72f21fbc9d65186f9f96d468231849c69b5beaa4906614cde18e56ee54ef6c6"
+    },
+    {
+      "path": "statistics/a5/README.md",
+      "bytes": 1575,
+      "sha256": "a31f5d307673d56720a3995ebaa3ff21c3271df957e5da9117d74f08c6215646"
+    },
+    {
+      "path": "statistics/a5/expected_bootstrap.npz",
+      "bytes": 3704787,
+      "sha256": "caaf1cce1fe77460a31ebbbebab0cf66638c9a5d966de1ce12a82e11035fba79"
+    },
+    {
+      "path": "statistics/a5/expected_results.json",
+      "bytes": 1699,
+      "sha256": "3a0a7237d594c35f7f937686ba3ccaa9408e86e6221fdabfeb3ab61dc025b7da"
+    },
+    {
+      "path": "statistics/a5/inputs/OPAL2_biology_kernel_BioMeme_A5_mechanism_weights_prespec_20261102.md",
+      "bytes": 2882,
+      "sha256": "60a1327debae6826c63350de9710f4d737e7c3bb999b75ebb53c89385e0b9d62"
+    },
+    {
+      "path": "statistics/a5/inputs/moa/annotations.json",
+      "bytes": 3241735,
+      "sha256": "1e58a62aa47c28f16d4de36112649924543e63d9455932f35a9bb96a74c777b0"
+    },
+    {
+      "path": "statistics/a5/inputs/moa/candidate_pools.json",
+      "bytes": 636854,
+      "sha256": "0118f1ac208efc61e8fd2789180272766e0fb8f02caa4e5e52228b5c06d632c4"
+    },
+    {
+      "path": "statistics/a5/inputs/moa/observed_neighbour_scores.npz",
+      "bytes": 18728,
+      "sha256": "0e66931b9d5b1db00be062192ab6ea192fdb557451e74b84387f661082e5b6a0"
+    },
+    {
+      "path": "statistics/a5/inputs/moa/observed_neighbours.csv",
+      "bytes": 4794894,
+      "sha256": "b382a83352b054874ca704b2007280e65ee33c0bf7c6ce29868c488fc3f81a8d"
+    },
+    {
+      "path": "statistics/a5/inputs/moa/random_distribution.csv",
+      "bytes": 23891,
+      "sha256": "4f339ee1787328286b8883648465c13b4c0d5f59ccdecec200a2e56cb45622d1"
+    },
+    {
+      "path": "statistics/a5/inputs/moa/random_neighbours.npz",
+      "bytes": 1415935,
+      "sha256": "8224683826b9339ad881aa3c84ee515d588783bfe0715a1f5319eeeaad2eb577"
+    },
+    {
+      "path": "statistics/a5/inputs/smoother/per_query_compound_weights.csv",
+      "bytes": 47849239,
+      "sha256": "18e4eb3460720e461d932daa56222e3f07f555846c99d91047cf584aa4313ceb"
+    }
+  ]
+}

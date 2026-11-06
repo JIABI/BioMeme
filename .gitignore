@@ -1,0 +1,25 @@
+# Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Downloaded immutable inputs; retrieve with scripts/fetch_data.py
+.cache/
+data/u2os_demo/
+statistics/core/*
+!statistics/core/tahoe_statistics.py
+statistics/a5/*
+!statistics/a5/run_a5.py
+
+# Local results and operating-system files
+results/
+run_output/
+.DS_Store
+.AppleDouble
+*.log
+.env
+.env.*
